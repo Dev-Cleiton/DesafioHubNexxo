@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMyle2+d1T6dBA+3lZi+UizRzGz7WM7BBfHoutOabj6MUjzFtEsch3kg5vwFzvtJhr1njWyNx0bdryC3quPJ/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Estudos\\source\\repos\\DesafioHubNexxo\\DesafioHubNexxo\\DesafioHubNexxo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Estudos\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Estudos\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Estudos\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

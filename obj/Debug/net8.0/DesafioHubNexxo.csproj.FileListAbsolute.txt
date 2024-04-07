@@ -1,0 +1,17 @@
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\bin\Debug\net8.0\DesafioHubNexxo.exe
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\bin\Debug\net8.0\DesafioHubNexxo.deps.json
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\bin\Debug\net8.0\DesafioHubNexxo.runtimeconfig.json
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\bin\Debug\net8.0\DesafioHubNexxo.dll
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\bin\Debug\net8.0\DesafioHubNexxo.pdb
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\obj\Debug\net8.0\DesafioHubNexxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\obj\Debug\net8.0\DesafioHubNexxo.AssemblyInfoInputs.cache
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\obj\Debug\net8.0\DesafioHubNexxo.AssemblyInfo.cs
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\obj\Debug\net8.0\DesafioHubNexxo.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\obj\Debug\net8.0\DesafioHubNexxo.dll
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\obj\Debug\net8.0\refint\DesafioHubNexxo.dll
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\obj\Debug\net8.0\DesafioHubNexxo.pdb
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\obj\Debug\net8.0\DesafioHubNexxo.genruntimeconfig.cache
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\obj\Debug\net8.0\ref\DesafioHubNexxo.dll
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\bin\Debug\net8.0\RestSharp.dll
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\obj\Debug\net8.0\DesafioHubNexxo.csproj.AssemblyReference.cache
+C:\Users\Estudos\source\repos\DesafioHubNexxo\DesafioHubNexxo\obj\Debug\net8.0\DesafioH.D4565C7E.Up2Date
